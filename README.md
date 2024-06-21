@@ -118,7 +118,7 @@ Potential Features Influencing Stock Prices:
     <li>Provide recommendations for further improvement or exploration.</li>
 </ul>
 <hr>
-<h3>Understanding the Dataset</h3>
+
 <hr></hr>
 
 <h1><b>Student Segmentation Clustering</b></h1>
