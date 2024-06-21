@@ -119,8 +119,6 @@ Potential Features Influencing Stock Prices:
 </ul>
 <hr>
 
-<hr></hr>
-
 <h1><b>Student Segmentation Clustering</b></h1>
 <hr></hr>
 
